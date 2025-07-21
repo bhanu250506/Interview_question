@@ -1,0 +1,49 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Environment files
+.env
+.env.*       # Includes .env.local, .env.production, etc.
+
+# Project configuration (optional: only ignore if you don’t want to track these)
+package.json
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local config overrides
+*.local
+*.config.js
+*.config.ts
+
+# Others (optional, remove if not needed)
+coverage/
+.cache/
+.eslintcache

@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="80" fill="#1e293b" opacity="0.5"/>
+
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+    <path d="M75 55H125V65" stroke="#94a3b8"/>
+    <path d="M75 145H125V75C125 75 70.8193 75 75 75C79.1807 75 75 79.1807 75 75V55Z" stroke="#94a3b8"/>
+    
+    <line x1="85" y1="95" x2="115" y2="95" stroke="#475569"/>
+    <line x1="85" y1="105" x2="115" y2="105" stroke="#475569"/>
+    <line x1="85" y1="115" x2="105" y2="115" stroke="#475569"/>
+  </g>
+
+  <g>
+    <line x1="128" y1="132" x2="145" y2="149" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="110" cy="114" r="25" stroke="#facc15" stroke-width="5"/>
+  </g>
+</svg>
